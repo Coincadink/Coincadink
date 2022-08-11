@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=majesticturtlejp)
+
+
 <!--
 **Coincadink/Coincadink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=majesticturtlejp)
-
 -->
